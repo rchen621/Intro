@@ -3,8 +3,8 @@
 - 🌱 I’m currently taking classes on computer architecture and software design and analysis.
 - 💞️ I’m looking to collaborate on projects and Hackathons!
 - 📫 How to reach me:\
-      Email: ritachen621@gmail.com\
-      LinkedIn: https://www.linkedin.com/in/ritac7428/
+      ···Email: ritachen621@gmail.com\
+      ···LinkedIn: https://www.linkedin.com/in/ritac7428/
 
 <!---
 rchen621/rchen621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
